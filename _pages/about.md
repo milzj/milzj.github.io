@@ -9,7 +9,7 @@ profile:
   image: johannes-milz.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: Groseclose 444</p>
+    <p>Office: [Groseclose](https://www.isye.gatech.edu/about/school/facilities) 444</p>
     <p>765 Ferst Dr, Atlanta GA 30332</p>
 
 news: false  # includes a list of news items
