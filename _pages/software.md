@@ -21,7 +21,7 @@ $$U_{\text{ad}} = \\{ u \in L^2(D) : a \leq u \leq b \\}$$. Here $$a$$, $$b \in 
 with $$a \leq b$$.
 
 
-The package can be used for the [https://github.com/milzj/FW4PDE/tree/main/examples/nonconvex/tidalfarm](design optimization of tidal-stream energy farms).
+The package can be used for the [design optimization of tidal-stream energy farms](https://github.com/milzj/FW4PDE/tree/main/examples/nonconvex/tidalfarm).
 
 
 #### [sNewton4PDEOpt](https://github.com/milzj/sNewton4PDEOpt): A semismooth Newton method for elliptic PDE-constrained optimization
