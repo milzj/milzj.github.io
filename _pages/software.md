@@ -20,6 +20,10 @@ where $$\beta \geq 0$$, $$S(u)$$ is the solution to a potentially nonlinear PDE,
 $$U_{\text{ad}} = \\{ u \in L^2(D) : a \leq u \leq b \\}$$. Here $$a$$, $$b \in L^2(D)$$
 with $$a \leq b$$.
 
+
+The package can be used for the [https://github.com/milzj/FW4PDE/tree/main/examples/nonconvex/tidalfarm](design optimization of tidal-stream energy farms).
+
+
 #### [sNewton4PDEOpt](https://github.com/milzj/sNewton4PDEOpt): A semismooth Newton method for elliptic PDE-constrained optimization
 
 #### [MPBNGCInterface.jl](https://github.com/milzj/MPBNGCInterface.jl) is a Julia module that interfaces the Fortran77 code Multiobjective Proximal Bundle Method MPBNGC
