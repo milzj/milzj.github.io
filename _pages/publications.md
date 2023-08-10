@@ -13,12 +13,9 @@ nav_order: 1
 
 {% bibliography -f preprints %}
 
-<h1>conference &amp; journal articles</h1>
+<h1>journal articles</h1>
 
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+{% bibliography -f papers %}
 
 <h1>theses</h1>
 
