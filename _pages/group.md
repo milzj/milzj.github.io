@@ -14,6 +14,6 @@ nav_order: 2
 
 ## postdocs
 
-  - [Sivaramakrishnan Ramani](https://www.isye.gatech.edu/users/siva-ramani)
+  - [Siva Ramani](https://www.isye.gatech.edu/users/siva-ramani)
 
 
