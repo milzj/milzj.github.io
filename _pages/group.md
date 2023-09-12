@@ -4,7 +4,7 @@ permalink: /group/
 title: group
 description: 
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 ## phd students
