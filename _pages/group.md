@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+I am very fortunate to advise, mentor, and and learn from those listed below.
+
 ## phd students
 
   - Danlin Li
