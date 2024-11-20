@@ -14,8 +14,8 @@ I am very fortunate to advise, mentor, and learn from those listed below.
   - Danlin Li
   - [Olena Melnikov](https://www.isye.gatech.edu/users/olena-melnikov)
 
-## postdocs
+## Former group members 
 
-  - [Siva Ramani](https://www.isye.gatech.edu/users/siva-ramani)
+### postdocs
 
-
+  - [Siva Ramani](https://cmor.rice.edu/people/visiting-postdoctoral-researchers), next position: Postdoctoral Researchers at Rice University
