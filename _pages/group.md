@@ -16,6 +16,10 @@ I am very fortunate to advise, mentor, and learn from those listed below.
 
 ## Former group members 
 
+### Summer Research Students
+
+ - Fabiola Belibi, Undergraduate in Neuroscience, Harvard University, 2025 ISyE Summer Undergraduate Scholars Research (SURS) Program
+
 ### postdocs
 
   - [Siva Ramani](https://cmor.rice.edu/people/visiting-postdoctoral-researchers), next position: Postdoctoral Researchers at Rice University
