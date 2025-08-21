@@ -11,6 +11,7 @@ I am very fortunate to advise, mentor, and learn from those listed below.
 
 ## phd students
 
+  - [Elif Sena Isik](https://www.isye.gatech.edu/users/elif-sena-isik)
   - [Danlin Li](https://www.isye.gatech.edu/users/danlin-li)
   - [Olena Melnikov](https://www.isye.gatech.edu/users/olena-melnikov)
 
